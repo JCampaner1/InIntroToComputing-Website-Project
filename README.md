@@ -1,5 +1,5 @@
 <h1>This is a heading</h1>
-<title> Website Title </title>
+<title> IntroToComputing-Website-Project </title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
